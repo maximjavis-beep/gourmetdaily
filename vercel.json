@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "gourmetdaily",
+  "public": true,
+  "github": {
+    "enabled": true
+  }
+}
